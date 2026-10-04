@@ -1,0 +1,9 @@
+FICTIONAL TABLETOP EXERCISE — SYNTHETIC DATA ONLY
+Scenario: Alpha Shield (invented; not based on a real operation or location)
+Time: 0700 exercise time
+Conditions: Dense fog; visibility is below 200 m and is expected through 1400.
+Exercise asset: SkyEye-1, a fictional observation drone.
+Exercise constraint: A fictional communications-interference hazard has been
+reported, but its source, range, and likelihood are unknown.
+Known limitation: No information is provided about the drone's weather rating,
+communications resilience, or applicable safety procedures.
